@@ -1,2 +1,4 @@
 # ocio-config
-OpenColorIO v2 Config based on the sample from config https://opencolorio.readthedocs.io/en/latest/configurations/ocio_v2_demo.html 
+A simple OpenColorIO v2 config based on the sample from config https://opencolorio.readthedocs.io/en/latest/configurations/ocio_v2_demo.html 
+
+- added support for Panasonic V-LOG V-Gamut
